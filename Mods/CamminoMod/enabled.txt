@@ -1,0 +1,9 @@
+CheatManagerEnablerMod : 1
+ConsoleCommandsMod : 1
+ConsoleEnablerMod : 1
+SplitScreenMod : 0
+LineTraceMod : 0
+BPML_GenericFunctions : 1
+BPModLoaderMod : 1
+Keybinds : 1
+CamminoMod : 1

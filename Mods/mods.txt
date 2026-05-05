@@ -1,0 +1,16 @@
+CheatManagerEnablerMod : 1
+ConsoleCommandsMod : 1
+ConsoleEnablerMod : 1
+SplitScreenMod : 0
+LineTraceMod : 0
+BPML_GenericFunctions : 1
+BPModLoaderMod : 1
+CamminoMod : 1
+CamminoClientUI : 1
+CapitanoIchy2k21 : 1
+
+
+
+
+; Built-in keybinds, do not move up!
+Keybinds : 1
